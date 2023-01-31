@@ -90,6 +90,11 @@ body {
     margin-top: -55px;
 }
 
+/* services section */
+.services .card-body i {
+    font-size: 50px;
+}
+
 
 /* responsive css */
 
