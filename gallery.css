@@ -73,9 +73,12 @@ h1 {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .row {
+        flex-direction: column;
+    }
+    
     .col-md-4 {
-        flex: 0 0 100%;
-        max-width: 100%;
+        width: 100%;
     }
 }
 
