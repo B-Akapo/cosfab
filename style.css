@@ -79,7 +79,7 @@ body {
 /* About Us */
 .about-img img {
     width: 100%;
-    height: 80vh;
+    height: 90vh;
 }
 
 .about-text p {
@@ -96,7 +96,7 @@ body {
 }
 
 #services {
-    margin-top: -20px;
+    margin-top: -50px;
 }
 
 /* portfolio */
@@ -105,14 +105,20 @@ body {
 }
 
 #portfolio {
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 /* contact us */
 
 #contact {
-    margin-top: 30px;
+    margin-top: 50px;
 }
+
+#contact h1 {
+    margin-bottom: -50px;
+  }
+  
+  
 
 
 /* responsive css */
